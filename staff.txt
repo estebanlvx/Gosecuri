@@ -1,7 +1,7 @@
-florianlesaint@gosecuri.com EPSIb3 Florian Le_Saint
+flesaint florianlesaint@gosecuri.com EPSIb3 Florian Le_Saint
 
-brewenlepage@gosecuri.com EPSIb3 Brewen Le_Page
+blepage brewenlepage@gosecuri.com EPSIb3 Brewen Le_Page
 
-estebanlavaux@gosecuri.com EPSIb3 Esteban Lavaux
+elavaux estebanlavaux@gosecuri.com EPSIb3 Esteban Lavaux
 
-envelleclainche@gosecuri.com EPSIb3 Envel Le_Clainche
+eleclainche envelleclainche@gosecuri.com EPSIb3 Envel Le_Clainche
